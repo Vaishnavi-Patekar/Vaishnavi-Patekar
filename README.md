@@ -13,8 +13,7 @@
 
 ## 🔭 I’m Currently:
 
-- 📊 Working on **predictive health analytics** using ML & wearable data
-- 🌐 Building **responsive websites** with **React.js + Node.js**
+- 🌐 Building **responsive websites** with **MERN Stack**
 - 🤖 Exploring **AI-driven projects** & real-time IoT integrations
 - 💡 Contributing to **innovative tech for social impact**
 
@@ -23,9 +22,10 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
+
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
@@ -35,17 +35,17 @@
 
   <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="40" height="40" alt="scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40" alt="OpenCV"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn" style="background-color:white; padding:4px; border-radius:6px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40" alt="OpenCV" style="background-color:white; padding:4px; border-radius:6px;"/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" width="40" height="40" alt="Express.js" style="background-color:white; padding:6px; border-radius:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 
   <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="background-color:white; border-radius:50%; padding:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40" alt="Raspberry Pi"/>
@@ -84,10 +84,25 @@
 
 ## 📫 Let’s Connect
 
+<p align="center">
+  <a href="mailto:patekarvaishnavi14@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://github.com/Vaishnavi-Patekar"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="background-color:white; border-radius:50%;"/></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-patekar1907/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+- 📧 **Email**: patekarvaishnavi14@gmail.com  
+- 💼 **GitHub**: [Vaishnavi-Patekar](https://github.com/Vaishnavi-Patekar)  
 - 🔗 **LinkedIn**: [Vaishnavi Patekar](https://www.linkedin.com/in/vaishnavi-patekar1907/)
-- 💼 **GitHub**: [Vaishnavi-Patekar](https://github.com/Vaishnavi-Patekar)
-- 📧 **Email**: patekarvaishnavi14@gmail.com
-- 📄 [**View My Resume**](https://drive.google.com/file/d/1ZxOv51pyxY1UKLuKDF6TicIKzwrKE16N/view?usp=sharing) <!-- Replace with actual resume link -->
+
+---
+
+## 📄 Resume
+
+<p>
+  <a href="https://drive.google.com/file/d/1ZxOv51pyxY1UKLuKDF6TicIKzwrKE16N/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
