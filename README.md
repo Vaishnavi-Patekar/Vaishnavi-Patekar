@@ -71,24 +71,9 @@
 - 🤖 **AI-Driven Smart Stick**  
   A Raspberry Pi–based assistive device with object recognition, obstacle detection (ultrasonic + water sensors), GPS-based SMS alerts, and voice feedback via bluetooth.      Combines OpenCV, Python, and IoT components.
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Patekar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Patekar&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 📫 Let’s Connect
-
-<p align="center">
-  <a href="mailto:patekarvaishnavi14@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://github.com/Vaishnavi-Patekar"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="background-color:white; border-radius:50%;"/></a>
-  <a href="https://www.linkedin.com/in/vaishnavi-patekar1907/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-</p>
 
 - 📧 **Email**: patekarvaishnavi14@gmail.com  
 - 💼 **GitHub**: [Vaishnavi-Patekar](https://github.com/Vaishnavi-Patekar)  
