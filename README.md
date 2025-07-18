@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Patekar</h1>
 <h3 align="center">🚀 Computer Engineering Student| JAVA Enthusiast | Full Stack Web Developer | Passionate About Tech & Innovation |</h3>
 
+🎯 [My Portfolio](https://vaishnavi-patekar.github.io/Portfolio/  )
+
 ![Profile views](https://komarev.com/ghpvc/?username=Vaishnavi-Patekar&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
