@@ -92,7 +92,7 @@
 ## 📄 Resume
 
 <p>
-  <a href="https://drive.google.com/file/d/10qZTNtRIXAStsJIfdMK9DP2WBTvZPDnd/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_75PyvjY_HUR4e3LtyZPtIiI184zWkW1/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
