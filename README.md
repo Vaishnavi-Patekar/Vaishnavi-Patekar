@@ -64,20 +64,20 @@
 
 ## 🌟 Notable Projects
 
+- 🏨 **Banquet Hall Booking Website**  
+  A responsive website for users to book banquet halls based on location, features, and availability – built using MERN Stack.
+  
 - 🚗 **Campus Auto Connect**  
   A student ride-booking web app to connect college students with auto drivers for safe and easy travel – built using HTML, CSS, JS, Express.js, and MongoDB.
+
+- 🤖 **AI-Driven Smart Stick**  
+  A Raspberry Pi–based assistive device with object recognition, obstacle detection (ultrasonic + water sensors), GPS-based SMS alerts, and voice feedback via bluetooth.      Combines OpenCV, Python, and IoT components.
 
 - 🎮 **Flipping Tiles – Memory Game**  
   A Java Swing-based game to match tile pairs with move counter, timer, difficulty levels, and dark mode support.
 
-- 🏨 **Banquet Hall Booking Website**  
-  A responsive website for users to book banquet halls based on location, features, and availability – built with HTML, CSS, JavaScript.
-
 - 💻 **Car Rental Website**  
   A platfom for car rental services with search, filter, and booking features using HTML, CSS , JS.
-
-- 🤖 **AI-Driven Smart Stick**  
-  A Raspberry Pi–based assistive device with object recognition, obstacle detection (ultrasonic + water sensors), GPS-based SMS alerts, and voice feedback via bluetooth.      Combines OpenCV, Python, and IoT components.
 
 ---
 
