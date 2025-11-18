@@ -13,7 +13,8 @@
 
 💼 I’ve completed internships in **AI, ML, IoT, SAP, and Data Analytics**, and actively participate in technical competitions.  
 
-🌟 Finalist at **Code Unnati Innovation Marathon 3.0** | 🏆 Winner of **ISTE Prototype Making Competition**.
+🌟 Finalist at **Code Unnati Innovation Marathon 3.0** 
+🏆 Winner of **ISTE Prototype Making Competition**.
 
 ---
 
