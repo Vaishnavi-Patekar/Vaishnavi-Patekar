@@ -11,10 +11,11 @@
 
 ✨I’m a Computer Engineering student (CGPA: 8.33) passionate about full-stack web development,AI/ML, and IoT. My journey spans building real-world solutions using Java,MERN Stack and smart embedded systems — and I’m continuously exploring scalable and impactful tech innovations.  
 
-💼 I’ve completed internships in **AI, ML, IoT, SAP, and Data Analytics**, and actively participate in technical competitions.  
+-💼 I’ve completed internship at Edunet Foundation (SAP). Enhanced AI, ML, & Data Science skills through hands-on work on real-world projects.
 
-🌟 Finalist at **Code Unnati Innovation Marathon 3.0** 
-🏆 Winner of **ISTE Prototype Making Competition**.
+-🌟 Finalist at **Code Unnati Innovation Marathon 3.0** 
+
+-🏆 Winner of **ISTE Prototype Making Competition**.
 
 ---
 
