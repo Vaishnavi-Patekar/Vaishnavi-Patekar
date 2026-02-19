@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-✨I’m a Computer Engineering student (CGPA: 8.33) passionate about full-stack web development,AI/ML, and IoT. My journey spans building real-world solutions using Java,MERN Stack and smart embedded systems — and I’m continuously exploring scalable and impactful tech innovations.  
+✨I’m a Computer Engineering student (CGPA: 9.35) passionate about full-stack web development,AI/ML, and IoT. My journey spans building real-world solutions using Java,MERN Stack and smart embedded systems — and I’m continuously exploring scalable and impactful tech innovations.  
 
 -💼 I’ve completed internship at Edunet Foundation (SAP). Enhanced AI, ML, & Data Science skills through hands-on work on real-world projects.
 
@@ -68,6 +68,9 @@
 
 - 🏨 **Banquet Hall Booking Website**  
   A responsive website for users to book banquet halls based on location, features, and availability – built using MERN Stack.
+
+- ☕ **Coffee Cafe Website**
+   Developed a fully responsive and animated Coffee Cafe landing page using React, Tailwind CSS, and AOS with seamless cross-device compatibility,implemented modern UI components with scroll-based animations.  
   
 - 🚗 **Campus Auto Connect**  
   A student ride-booking web app to connect college students with auto drivers for safe and easy travel – built using HTML, CSS, JS, Express.js, and MongoDB.
