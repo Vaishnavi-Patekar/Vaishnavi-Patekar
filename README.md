@@ -70,7 +70,6 @@
   A responsive website for users to book banquet halls based on location, features, and availability – built using MERN Stack.
 
 - ☕ **Coffee Cafe Website**
-  
    Developed a fully responsive and animated Coffee Cafe landing page using React, Tailwind CSS, and AOS with seamless cross-device compatibility,implemented modern UI components with scroll-based animations.  
   
 - 🚗 **Campus Auto Connect**  
